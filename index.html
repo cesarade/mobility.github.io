@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="stylesheet" type="text/css" href="range.css" />
+</head>
+<body>
+
+    <div style="text-align: center; color: white;">
+        <h1>Tráfico aéreo de pasajeros entre el periodo 2011 – 2016</h1>
+    </div>
+    
+    <div class="cols">
+        <div class="col1">
+            <p style="color: white; font-size: 1.2em;">
+                En el gráfico se muestra dos grupos de información sobre los vuelos de pasajeros. 
+            </p>
+            <p style="color: white; font-size: 1.2em;">
+                El primero representado  por círculos que refleja la  cantidad de visitas anuales que arribaron pasajeros en un país. El segundo grupo representado por líneas refleja los países de partida y destino de los pasajeros en un año. 
+            </p>
+            <p style="color: white; font-size: 1.2em;">
+                El conjunto de datos que cubre más de 15,000 millones de viajes estimados entre los periodos 2011 - 2016.
+            </p>
+            <p style="color: white; font-size: 1.2em;">
+                Los colores representan las subregiones continentales. Las líneas tienen el color de la subregión del país de partida. El color de los círculos corresponde a la subregión que pertenece el país.
+            </p>
+        </div>
+        <div class="col2">
+            <img src="svg/legend.svg" style="width: 350px">
+        </div>
+    </div>
+    
+    <div id="chart" style="text-align: center;">
+        <div id="tooltip" class="tooltip" style="text-align: center;"></div>
+    </div>
+    <footer class="footer">
+        <div>
+            <span id="rangeValue">2005</span>
+        </div>
+        <div style="text-align: center;">
+            <input type="range" class="range" value="2011" min="2011" max="2016" oninput="showVal(this.value)" onchange="showVal(this.value)">
+        </div>
+        
+    </footer>
+    <div style="text-align: center; color: white;">
+        <h1>Los 10 países con mayor Tráfico aéreo de pasajeros entre el periodo 2011 - 2016</h1>
+    </div>
+    <div style="text-align:center">
+        <img src="svg/alluvial.svg" style="width: 950px">
+    </div>
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="app.js"></script>
+    
+</body>
+</html>

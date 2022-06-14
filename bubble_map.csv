@@ -1,0 +1,1141 @@
+year,target_name,tar_latitude,tar_longitude,estimated_trips,target_subregion
+2011,afghanistan                     ,33.9,67.7,825706,Southern Asia                  
+2011,albania                         ,41.2,20.2,2464927,Southern Europe                
+2011,algeria                         ,28.0,1.7,4779344,Northern Africa                
+2011,andorra                         ,42.5,1.6,3,Southern Europe                
+2011,angola                          ,-11.2,17.9,1298887,Sub-Saharan Africa             
+2011,antigua and barbuda             ,17.1,-61.8,533216,Latin America and the Caribbean
+2011,argentina                       ,-38.4,-63.6,12132611,Latin America and the Caribbean
+2011,armenia                         ,40.1,45.0,1575168,Western Asia                   
+2011,australia                       ,-25.3,133.8,19297101,Australia and New Zealand      
+2011,austria                         ,47.5,14.6,32753631,Western Europe                 
+2011,azerbaijan                      ,40.1,47.6,5833323,Western Asia                   
+2011,bahamas                         ,25.0,-77.4,2017244,Latin America and the Caribbean
+2011,bahrain                         ,25.9,50.6,8911464,Western Asia                   
+2011,bangladesh                      ,23.7,90.4,4042056,Southern Asia                  
+2011,barbados                        ,13.2,-59.5,1045401,Latin America and the Caribbean
+2011,belarus                         ,53.7,28.0,7484465,Eastern Europe                 
+2011,belgium                         ,50.5,4.5,26457973,Western Europe                 
+2011,belize                          ,17.2,-88.5,373769,Latin America and the Caribbean
+2011,benin                           ,9.3,2.3,555825,Sub-Saharan Africa             
+2011,bermuda                         ,32.3,-64.8,565234,Northern America               
+2011,bhutan                          ,27.5,90.4,181448,Southern Asia                  
+2011,bolivia                         ,-16.3,-63.6,1493343,Latin America and the Caribbean
+2011,bosnia and herzegovina          ,43.9,17.7,1144622,Southern Europe                
+2011,botswana                        ,-22.3,24.7,299521,Sub-Saharan Africa             
+2011,brazil                          ,-14.2,-51.9,12815822,Latin America and the Caribbean
+2011,brunei                          ,4.5,114.7,717923,South-eastern Asia             
+2011,bulgaria                        ,42.7,25.5,12283199,Eastern Europe                 
+2011,burkina faso                    ,12.2,-1.6,347928,Sub-Saharan Africa             
+2011,burundi                         ,-3.4,29.9,164148,Sub-Saharan Africa             
+2011,cambodia                        ,12.6,105.0,2470948,South-eastern Asia             
+2011,cameroon                        ,7.4,12.4,698074,Sub-Saharan Africa             
+2011,canada                          ,56.1,-106.3,50049806,Northern America               
+2011,cape verde                      ,16.0,-24.0,438619,Sub-Saharan Africa             
+2011,cayman islands                  ,19.5,-80.6,644578,Latin America and the Caribbean
+2011,central african republic        ,6.6,20.9,117506,Sub-Saharan Africa             
+2011,chad                            ,15.5,18.7,159933,Sub-Saharan Africa             
+2011,chile                           ,-35.7,-71.5,5916093,Latin America and the Caribbean
+2011,china                           ,35.9,104.2,136840237,Eastern Asia                   
+2011,colombia                        ,4.6,-74.3,4342697,Latin America and the Caribbean
+2011,comoros                         ,-11.9,43.9,67966,Sub-Saharan Africa             
+2011,congo [drc]                     ,-4.0,21.8,509893,Sub-Saharan Africa             
+2011,congo [republic]                ,-0.2,15.8,417800,Sub-Saharan Africa             
+2011,costa rica                      ,9.7,-83.8,3064902,Latin America and the Caribbean
+2011,croatia                         ,45.1,15.2,9262345,Southern Europe                
+2011,cuba                            ,21.5,-77.8,2749849,Latin America and the Caribbean
+2011,cyprus                          ,35.1,33.4,5257624,Western Asia                   
+2011,czech republic                  ,49.8,15.5,23718872,Eastern Europe                 
+2011,că´te d'ivoire                  ,7.5,-5.5,826516,Sub-Saharan Africa             
+2011,denmark                         ,56.3,9.5,20488929,Northern Europe                
+2011,djibouti                        ,11.8,42.6,185148,Sub-Saharan Africa             
+2011,dominica                        ,15.4,-61.4,138562,Latin America and the Caribbean
+2011,dominican republic              ,18.7,-70.2,5270029,Latin America and the Caribbean
+2011,ecuador                         ,-1.8,-78.2,2328135,Latin America and the Caribbean
+2011,egypt                           ,26.8,30.8,14352928,Northern Africa                
+2011,el salvador                     ,13.8,-88.9,2446422,Latin America and the Caribbean
+2011,equatorial guinea               ,1.7,10.3,180685,Sub-Saharan Africa             
+2011,eritrea                         ,15.2,39.8,116521,Sub-Saharan Africa             
+2011,estonia                         ,58.6,25.0,4961716,Northern Europe                
+2011,ethiopia                        ,9.1,40.5,1241502,Sub-Saharan Africa             
+2011,fiji                            ,-16.6,179.4,918989,Melanesia                      
+2011,finland                         ,61.9,25.7,16681128,Northern Europe                
+2011,france                          ,46.2,2.2,112361459,Western Europe                 
+2011,gabon                           ,-0.8,11.6,380204,Sub-Saharan Africa             
+2011,gambia                          ,13.4,-15.3,206317,Sub-Saharan Africa             
+2011,georgia                         ,42.3,43.4,4188251,Western Asia                   
+2011,germany                         ,51.2,10.5,149782424,Western Europe                 
+2011,ghana                           ,7.9,-1.0,1154768,Sub-Saharan Africa             
+2011,gibraltar                       ,36.1,-5.3,267736,Southern Europe                
+2011,greece                          ,39.1,21.8,20165172,Southern Europe                
+2011,guatemala                       ,15.8,-90.2,2874106,Latin America and the Caribbean
+2011,guinea                          ,9.9,-9.7,327276,Sub-Saharan Africa             
+2011,guinea-bissau                   ,11.8,-15.2,65744,Sub-Saharan Africa             
+2011,guyana                          ,4.9,-58.9,356268,Latin America and the Caribbean
+2011,haiti                           ,19.0,-72.3,741710,Latin America and the Caribbean
+2011,honduras                        ,15.2,-86.2,1661227,Latin America and the Caribbean
+2011,hong kong                       ,22.4,114.1,107575441,Eastern Asia                   
+2011,hungary                         ,47.2,19.5,15027477,Eastern Europe                 
+2011,iceland                         ,65.0,-19.0,1202309,Northern Europe                
+2011,india                           ,20.6,79.0,27014060,Southern Asia                  
+2011,indonesia                       ,-0.8,113.9,15553237,South-eastern Asia             
+2011,iran                            ,32.4,53.7,10265200,Southern Asia                  
+2011,iraq                            ,33.2,43.7,3220764,Western Asia                   
+2011,ireland                         ,53.4,-8.2,24943311,Northern Europe                
+2011,israel                          ,31.0,34.9,7864375,Western Asia                   
+2011,italy                           ,41.9,12.6,78443404,Southern Europe                
+2011,jamaica                         ,18.1,-77.3,3180596,Latin America and the Caribbean
+2011,japan                           ,36.2,138.3,28373343,Eastern Asia                   
+2011,jordan                          ,30.6,36.2,5754454,Western Asia                   
+2011,kazakhstan                      ,48.0,66.9,9186634,Central Asia                   
+2011,kenya                           ,0.0,37.9,2292525,Sub-Saharan Africa             
+2011,kiribati                        ,-3.4,-168.7,29093,Micronesia                     
+2011,kuwait                          ,29.3,47.5,9975414,Western Asia                   
+2011,kyrgyzstan                      ,41.2,74.8,4442156,Central Asia                   
+2011,latvia                          ,56.9,24.6,7369239,Northern Europe                
+2011,lebanon                         ,33.9,35.9,3798658,Western Asia                   
+2011,lesotho                         ,-29.6,28.2,1925920,Sub-Saharan Africa             
+2011,liberia                         ,6.4,-9.4,131016,Sub-Saharan Africa             
+2011,libya                           ,26.3,17.2,1357620,Northern Africa                
+2011,lithuania                       ,55.2,23.9,7323547,Northern Europe                
+2011,luxembourg                      ,49.8,6.1,8610312,Western Europe                 
+2011,macedonia [fyrom]               ,41.6,21.7,1517205,Southern Europe                
+2011,madagascar                      ,-18.8,46.9,298022,Sub-Saharan Africa             
+2011,malawi                          ,-13.3,34.3,895757,Sub-Saharan Africa             
+2011,malaysia                        ,4.2,102.0,17466898,South-eastern Asia             
+2011,maldives                        ,3.2,73.2,1489495,Southern Asia                  
+2011,mali                            ,17.6,-4.0,573367,Sub-Saharan Africa             
+2011,malta                           ,35.9,14.4,2457610,Southern Europe                
+2011,marshall islands                ,7.1,171.2,21286,Micronesia                     
+2011,mauritania                      ,21.0,-10.9,216742,Sub-Saharan Africa             
+2011,mauritius                       ,-20.3,57.6,1183646,Sub-Saharan Africa             
+2011,mexico                          ,23.6,-102.6,38599404,Latin America and the Caribbean
+2011,micronesia                      ,7.4,150.6,23360,Micronesia                     
+2011,moldova                         ,47.4,28.4,7078306,Eastern Europe                 
+2011,mongolia                        ,46.9,103.8,1830702,Eastern Asia                   
+2011,morocco                         ,31.8,-7.1,8670524,Northern Africa                
+2011,mozambique                      ,-18.7,35.5,2992244,Sub-Saharan Africa             
+2011,myanmar [burma]                 ,21.9,96.0,1590984,South-eastern Asia             
+2011,namibia                         ,-23.0,18.5,1171500,Sub-Saharan Africa             
+2011,nauru                           ,-0.5,166.9,9880,Micronesia                     
+2011,nepal                           ,28.4,84.1,2296667,Southern Asia                  
+2011,netherlands                     ,52.1,5.3,38730077,Western Europe                 
+2011,new zealand                     ,-40.9,174.9,6338429,Australia and New Zealand      
+2011,nicaragua                       ,12.9,-85.2,1676843,Latin America and the Caribbean
+2011,niger                           ,17.6,8.1,125096,Sub-Saharan Africa             
+2011,nigeria                         ,9.1,8.7,2996144,Sub-Saharan Africa             
+2011,niue                            ,-19.1,-169.9,9345,Polynesia                      
+2011,north korea                     ,40.3,127.5,102371,Eastern Asia                   
+2011,norway                          ,60.5,8.5,11688076,Northern Europe                
+2011,oman                            ,21.5,55.9,3034306,Western Asia                   
+2011,pakistan                        ,30.4,69.3,6657310,Southern Asia                  
+2011,palau                           ,7.5,134.6,97393,Micronesia                     
+2011,palestinian territories         ,32.0,35.2,5070,Western Asia                   
+2011,panama                          ,8.5,-80.8,2112199,Latin America and the Caribbean
+2011,papua new guinea                ,-6.3,144.0,312628,Melanesia                      
+2011,paraguay                        ,-23.4,-58.4,1540945,Latin America and the Caribbean
+2011,peru                            ,-9.2,-75.0,3984881,Latin America and the Caribbean
+2011,philippines                     ,12.9,121.8,11070226,South-eastern Asia             
+2011,poland                          ,51.9,19.1,74995455,Eastern Europe                 
+2011,portugal                        ,39.4,-8.2,16732693,Southern Europe                
+2011,qatar                           ,25.4,51.2,6233504,Western Asia                   
+2011,romania                         ,45.9,25.0,14353831,Eastern Europe                 
+2011,russia                          ,61.5,105.3,61701440,Eastern Europe                 
+2011,rwanda                          ,-1.9,29.9,855234,Sub-Saharan Africa             
+2011,saint kitts and nevis           ,17.4,-62.8,197157,Latin America and the Caribbean
+2011,saint lucia                     ,13.9,-61.0,523046,Latin America and the Caribbean
+2011,saint vincent and the grenadines,13.0,-61.3,243438,Latin America and the Caribbean
+2011,samoa                           ,-13.8,-172.1,158747,Polynesia                      
+2011,san marino                      ,43.9,12.5,220058,Southern Europe                
+2011,saudi arabia                    ,23.9,45.1,28694359,Western Asia                   
+2011,senegal                         ,14.5,-14.5,1190596,Sub-Saharan Africa             
+2011,seychelles                      ,-4.7,55.5,270648,Sub-Saharan Africa             
+2011,sierra leone                    ,8.5,-11.8,193396,Sub-Saharan Africa             
+2011,singapore                       ,1.4,103.8,23259339,South-eastern Asia             
+2011,slovakia                        ,48.7,19.7,10613043,Eastern Europe                 
+2011,slovenia                        ,46.2,15.0,3643780,Southern Europe                
+2011,solomon islands                 ,-9.6,160.2,59734,Melanesia                      
+2011,somalia                         ,5.2,46.2,94542,Sub-Saharan Africa             
+2011,south africa                    ,-30.6,22.9,12326781,Sub-Saharan Africa             
+2011,south korea                     ,35.9,127.8,27444084,Eastern Asia                   
+2011,spain                           ,40.5,-3.7,93306597,Southern Europe                
+2011,sri lanka                       ,7.9,80.8,3090744,Southern Asia                  
+2011,sudan                           ,12.9,30.2,1581752,Northern Africa                
+2011,suriname                        ,3.9,-56.0,238306,Latin America and the Caribbean
+2011,sweden                          ,60.1,18.6,25674562,Northern Europe                
+2011,switzerland                     ,46.8,8.2,24360115,Western Europe                 
+2011,syria                           ,34.8,39.0,2636959,Western Asia                   
+2011,tajikistan                      ,38.9,71.3,1437143,Central Asia                   
+2011,tanzania                        ,-6.4,34.9,1594788,Sub-Saharan Africa             
+2011,thailand                        ,15.9,101.0,22058291,South-eastern Asia             
+2011,timor-leste                     ,-8.9,125.7,20019,South-eastern Asia             
+2011,togo                            ,8.6,0.8,292096,Sub-Saharan Africa             
+2011,tonga                           ,-21.2,-175.2,93734,Polynesia                      
+2011,trinidad and tobago             ,10.7,-61.2,1029865,Latin America and the Caribbean
+2011,tunisia                         ,33.9,9.5,5521201,Northern Africa                
+2011,turkey                          ,39.0,35.2,37496060,Western Asia                   
+2011,turkmenistan                    ,39.0,59.6,473114,Central Asia                   
+2011,turks and caicos islands        ,21.7,-71.8,454822,Latin America and the Caribbean
+2011,tuvalu                          ,-7.1,177.6,5027,Polynesia                      
+2011,uganda                          ,1.4,32.3,1195627,Sub-Saharan Africa             
+2011,ukraine                         ,48.4,31.2,37669523,Eastern Europe                 
+2011,united arab emirates            ,23.4,53.8,25871072,Western Asia                   
+2011,united kingdom                  ,55.4,-3.4,119714930,Northern Europe                
+2011,united states                   ,37.1,-95.7,140458791,Northern America               
+2011,uruguay                         ,-32.5,-55.8,3621343,Latin America and the Caribbean
+2011,uzbekistan                      ,41.4,64.6,1722308,Central Asia                   
+2011,vanuatu                         ,-15.4,167.0,139952,Melanesia                      
+2011,venezuela                       ,6.4,-66.6,2849048,Latin America and the Caribbean
+2011,yemen                           ,15.6,48.5,1247918,Western Asia                   
+2011,zambia                          ,-13.1,27.8,1240063,Sub-Saharan Africa             
+2011,zimbabwe                        ,-19.0,29.2,4300635,Sub-Saharan Africa             
+2012,afghanistan                     ,33.9,67.7,977698,Southern Asia                  
+2012,albania                         ,41.2,20.2,2720453,Southern Europe                
+2012,algeria                         ,28.0,1.7,5309556,Northern Africa                
+2012,andorra                         ,42.5,1.6,7,Southern Europe                
+2012,angola                          ,-11.2,17.9,1381873,Sub-Saharan Africa             
+2012,antigua and barbuda             ,17.1,-61.8,488451,Latin America and the Caribbean
+2012,argentina                       ,-38.4,-63.6,12677662,Latin America and the Caribbean
+2012,armenia                         ,40.1,45.0,1651616,Western Asia                   
+2012,australia                       ,-25.3,133.8,20373964,Australia and New Zealand      
+2012,austria                         ,47.5,14.6,33784850,Western Europe                 
+2012,azerbaijan                      ,40.1,47.6,6384115,Western Asia                   
+2012,bahamas                         ,25.0,-77.4,2206157,Latin America and the Caribbean
+2012,bahrain                         ,25.9,50.6,10722667,Western Asia                   
+2012,bangladesh                      ,23.7,90.4,4272697,Southern Asia                  
+2012,barbados                        ,13.2,-59.5,1024081,Latin America and the Caribbean
+2012,belarus                         ,53.7,28.0,8710415,Eastern Europe                 
+2012,belgium                         ,50.5,4.5,26931886,Western Europe                 
+2012,belize                          ,17.2,-88.5,382784,Latin America and the Caribbean
+2012,benin                           ,9.3,2.3,624463,Sub-Saharan Africa             
+2012,bermuda                         ,32.3,-64.8,538514,Northern America               
+2012,bhutan                          ,27.5,90.4,183861,Southern Asia                  
+2012,bolivia                         ,-16.3,-63.6,1697002,Latin America and the Caribbean
+2012,bosnia and herzegovina          ,43.9,17.7,1259364,Southern Europe                
+2012,botswana                        ,-22.3,24.7,1962245,Sub-Saharan Africa             
+2012,brazil                          ,-14.2,-51.9,13787056,Latin America and the Caribbean
+2012,brunei                          ,4.5,114.7,1721979,South-eastern Asia             
+2012,bulgaria                        ,42.7,25.5,12331778,Eastern Europe                 
+2012,burkina faso                    ,12.2,-1.6,357200,Sub-Saharan Africa             
+2012,burundi                         ,-3.4,29.9,193487,Sub-Saharan Africa             
+2012,cambodia                        ,12.6,105.0,3019868,South-eastern Asia             
+2012,cameroon                        ,7.4,12.4,756712,Sub-Saharan Africa             
+2012,canada                          ,56.1,-106.3,52284491,Northern America               
+2012,cape verde                      ,16.0,-24.0,419621,Sub-Saharan Africa             
+2012,cayman islands                  ,19.5,-80.6,676978,Latin America and the Caribbean
+2012,central african republic        ,6.6,20.9,114876,Sub-Saharan Africa             
+2012,chad                            ,15.5,18.7,166557,Sub-Saharan Africa             
+2012,chile                           ,-35.7,-71.5,6528280,Latin America and the Caribbean
+2012,china                           ,35.9,104.2,143740343,Eastern Asia                   
+2012,colombia                        ,4.6,-74.3,5075013,Latin America and the Caribbean
+2012,comoros                         ,-11.9,43.9,82230,Sub-Saharan Africa             
+2012,congo [drc]                     ,-4.0,21.8,530059,Sub-Saharan Africa             
+2012,congo [republic]                ,-0.2,15.8,378231,Sub-Saharan Africa             
+2012,costa rica                      ,9.7,-83.8,3299285,Latin America and the Caribbean
+2012,croatia                         ,45.1,15.2,9319558,Southern Europe                
+2012,cuba                            ,21.5,-77.8,3087186,Latin America and the Caribbean
+2012,cyprus                          ,35.1,33.4,5497213,Western Asia                   
+2012,czech republic                  ,49.8,15.5,26081119,Eastern Europe                 
+2012,că´te d'ivoire                  ,7.5,-5.5,1039152,Sub-Saharan Africa             
+2012,denmark                         ,56.3,9.5,20709729,Northern Europe                
+2012,djibouti                        ,11.8,42.6,216260,Sub-Saharan Africa             
+2012,dominica                        ,15.4,-61.4,152004,Latin America and the Caribbean
+2012,dominican republic              ,18.7,-70.2,5714287,Latin America and the Caribbean
+2012,ecuador                         ,-1.8,-78.2,2474520,Latin America and the Caribbean
+2012,egypt                           ,26.8,30.8,15646368,Northern Africa                
+2012,el salvador                     ,13.8,-88.9,2532508,Latin America and the Caribbean
+2012,equatorial guinea               ,1.7,10.3,191500,Sub-Saharan Africa             
+2012,eritrea                         ,15.2,39.8,149386,Sub-Saharan Africa             
+2012,estonia                         ,58.6,25.0,4984140,Northern Europe                
+2012,ethiopia                        ,9.1,40.5,1546608,Sub-Saharan Africa             
+2012,fiji                            ,-16.6,179.4,927372,Melanesia                      
+2012,finland                         ,61.9,25.7,17341994,Northern Europe                
+2012,france                          ,46.2,2.2,114359604,Western Europe                 
+2012,gabon                           ,-0.8,11.6,437375,Sub-Saharan Africa             
+2012,gambia                          ,13.4,-15.3,178588,Sub-Saharan Africa             
+2012,georgia                         ,42.3,43.4,5980649,Western Asia                   
+2012,germany                         ,51.2,10.5,150874113,Western Europe                 
+2012,ghana                           ,7.9,-1.0,1227983,Sub-Saharan Africa             
+2012,gibraltar                       ,36.1,-5.3,264421,Southern Europe                
+2012,greece                          ,39.1,21.8,18059781,Southern Europe                
+2012,guatemala                       ,15.8,-90.2,2904931,Latin America and the Caribbean
+2012,guinea                          ,9.9,-9.7,315876,Sub-Saharan Africa             
+2012,guinea-bissau                   ,11.8,-15.2,74114,Sub-Saharan Africa             
+2012,guyana                          ,4.9,-58.9,382196,Latin America and the Caribbean
+2012,haiti                           ,19.0,-72.3,784245,Latin America and the Caribbean
+2012,honduras                        ,15.2,-86.2,1679452,Latin America and the Caribbean
+2012,hong kong                       ,22.4,114.1,109441180,Eastern Asia                   
+2012,hungary                         ,47.2,19.5,15763812,Eastern Europe                 
+2012,iceland                         ,65.0,-19.0,1317552,Northern Europe                
+2012,india                           ,20.6,79.0,27903389,Southern Asia                  
+2012,indonesia                       ,-0.8,113.9,17058627,South-eastern Asia             
+2012,iran                            ,32.4,53.7,8972123,Southern Asia                  
+2012,iraq                            ,33.2,43.7,3974881,Western Asia                   
+2012,ireland                         ,53.4,-8.2,24858588,Northern Europe                
+2012,israel                          ,31.0,34.9,7739141,Western Asia                   
+2012,italy                           ,41.9,12.6,77502526,Southern Europe                
+2012,jamaica                         ,18.1,-77.3,3108036,Latin America and the Caribbean
+2012,japan                           ,36.2,138.3,31748028,Eastern Asia                   
+2012,jordan                          ,30.6,36.2,6943487,Western Asia                   
+2012,kazakhstan                      ,48.0,66.9,10731590,Central Asia                   
+2012,kenya                           ,0.0,37.9,2311284,Sub-Saharan Africa             
+2012,kiribati                        ,-3.4,-168.7,26224,Micronesia                     
+2012,kuwait                          ,29.3,47.5,10209215,Western Asia                   
+2012,kyrgyzstan                      ,41.2,74.8,4603320,Central Asia                   
+2012,latvia                          ,56.9,24.6,7541729,Northern Europe                
+2012,lebanon                         ,33.9,35.9,4148272,Western Asia                   
+2012,lesotho                         ,-29.6,28.2,2060593,Sub-Saharan Africa             
+2012,liberia                         ,6.4,-9.4,148555,Sub-Saharan Africa             
+2012,libya                           ,26.3,17.2,2222081,Northern Africa                
+2012,lithuania                       ,55.2,23.9,8390729,Northern Europe                
+2012,luxembourg                      ,49.8,6.1,8825725,Western Europe                 
+2012,macedonia [fyrom]               ,41.6,21.7,1548459,Southern Europe                
+2012,madagascar                      ,-18.8,46.9,345906,Sub-Saharan Africa             
+2012,malawi                          ,-13.3,34.3,1052352,Sub-Saharan Africa             
+2012,malaysia                        ,4.2,102.0,34396621,South-eastern Asia             
+2012,maldives                        ,3.2,73.2,1492556,Southern Asia                  
+2012,mali                            ,17.6,-4.0,572749,Sub-Saharan Africa             
+2012,malta                           ,35.9,14.4,2357880,Southern Europe                
+2012,marshall islands                ,7.1,171.2,20701,Micronesia                     
+2012,mauritania                      ,21.0,-10.9,228177,Sub-Saharan Africa             
+2012,mauritius                       ,-20.3,57.6,1193984,Sub-Saharan Africa             
+2012,mexico                          ,23.6,-102.6,39250673,Latin America and the Caribbean
+2012,micronesia                      ,7.4,150.6,20843,Micronesia                     
+2012,moldova                         ,47.4,28.4,7849896,Eastern Europe                 
+2012,mongolia                        ,46.9,103.8,2041685,Eastern Asia                   
+2012,morocco                         ,31.8,-7.1,8178968,Northern Africa                
+2012,mozambique                      ,-18.7,35.5,3241115,Sub-Saharan Africa             
+2012,myanmar [burma]                 ,21.9,96.0,1898676,South-eastern Asia             
+2012,namibia                         ,-23.0,18.5,1301299,Sub-Saharan Africa             
+2012,nauru                           ,-0.5,166.9,13656,Micronesia                     
+2012,nepal                           ,28.4,84.1,2518509,Southern Asia                  
+2012,netherlands                     ,52.1,5.3,38761872,Western Europe                 
+2012,new zealand                     ,-40.9,174.9,6235703,Australia and New Zealand      
+2012,nicaragua                       ,12.9,-85.2,1796332,Latin America and the Caribbean
+2012,niger                           ,17.6,8.1,141804,Sub-Saharan Africa             
+2012,nigeria                         ,9.1,8.7,3713769,Sub-Saharan Africa             
+2012,niue                            ,-19.1,-169.9,8548,Polynesia                      
+2012,north korea                     ,40.3,127.5,110396,Eastern Asia                   
+2012,norway                          ,60.5,8.5,18568168,Northern Europe                
+2012,oman                            ,21.5,55.9,3323278,Western Asia                   
+2012,pakistan                        ,30.4,69.3,8142058,Southern Asia                  
+2012,palau                           ,7.5,134.6,113155,Micronesia                     
+2012,palestinian territories         ,32.0,35.2,1815,Western Asia                   
+2012,panama                          ,8.5,-80.8,2314991,Latin America and the Caribbean
+2012,papua new guinea                ,-6.3,144.0,328350,Melanesia                      
+2012,paraguay                        ,-23.4,-58.4,1617104,Latin America and the Caribbean
+2012,peru                            ,-9.2,-75.0,4337922,Latin America and the Caribbean
+2012,philippines                     ,12.9,121.8,12289375,South-eastern Asia             
+2012,poland                          ,51.9,19.1,82220675,Eastern Europe                 
+2012,portugal                        ,39.4,-8.2,16431450,Southern Europe                
+2012,qatar                           ,25.4,51.2,6623238,Western Asia                   
+2012,romania                         ,45.9,25.0,14523276,Eastern Europe                 
+2012,russia                          ,61.5,105.3,68983981,Eastern Europe                 
+2012,rwanda                          ,-1.9,29.9,937323,Sub-Saharan Africa             
+2012,saint kitts and nevis           ,17.4,-62.8,185911,Latin America and the Caribbean
+2012,saint lucia                     ,13.9,-61.0,534222,Latin America and the Caribbean
+2012,saint vincent and the grenadines,13.0,-61.3,234267,Latin America and the Caribbean
+2012,samoa                           ,-13.8,-172.1,163914,Polynesia                      
+2012,san marino                      ,43.9,12.5,221426,Southern Europe                
+2012,saudi arabia                    ,23.9,45.1,32646215,Western Asia                   
+2012,senegal                         ,14.5,-14.5,1159944,Sub-Saharan Africa             
+2012,seychelles                      ,-4.7,55.5,324219,Sub-Saharan Africa             
+2012,sierra leone                    ,8.5,-11.8,180527,Sub-Saharan Africa             
+2012,singapore                       ,1.4,103.8,35281256,South-eastern Asia             
+2012,slovakia                        ,48.7,19.7,11765352,Eastern Europe                 
+2012,slovenia                        ,46.2,15.0,3681678,Southern Europe                
+2012,solomon islands                 ,-9.6,160.2,60028,Melanesia                      
+2012,somalia                         ,5.2,46.2,125876,Sub-Saharan Africa             
+2012,south africa                    ,-30.6,22.9,13309895,Sub-Saharan Africa             
+2012,south korea                     ,35.9,127.8,29234538,Eastern Asia                   
+2012,spain                           ,40.5,-3.7,89002948,Southern Europe                
+2012,sri lanka                       ,7.9,80.8,3384700,Southern Asia                  
+2012,sudan                           ,12.9,30.2,1911596,Northern Africa                
+2012,suriname                        ,3.9,-56.0,305801,Latin America and the Caribbean
+2012,sweden                          ,60.1,18.6,30043961,Northern Europe                
+2012,switzerland                     ,46.8,8.2,24891932,Western Europe                 
+2012,syria                           ,34.8,39.0,2148502,Western Asia                   
+2012,tajikistan                      ,38.9,71.3,1756395,Central Asia                   
+2012,tanzania                        ,-6.4,34.9,1757490,Sub-Saharan Africa             
+2012,thailand                        ,15.9,101.0,27302931,South-eastern Asia             
+2012,timor-leste                     ,-8.9,125.7,19974,South-eastern Asia             
+2012,togo                            ,8.6,0.8,278007,Sub-Saharan Africa             
+2012,tonga                           ,-21.2,-175.2,94133,Polynesia                      
+2012,trinidad and tobago             ,10.7,-61.2,1083343,Latin America and the Caribbean
+2012,tunisia                         ,33.9,9.5,6219626,Northern Africa                
+2012,turkey                          ,39.0,35.2,38249788,Western Asia                   
+2012,turkmenistan                    ,39.0,59.6,612469,Central Asia                   
+2012,turks and caicos islands        ,21.7,-71.8,426651,Latin America and the Caribbean
+2012,tuvalu                          ,-7.1,177.6,4764,Polynesia                      
+2012,uganda                          ,1.4,32.3,1275983,Sub-Saharan Africa             
+2012,ukraine                         ,48.4,31.2,40943836,Eastern Europe                 
+2012,united arab emirates            ,23.4,53.8,29396775,Western Asia                   
+2012,united kingdom                  ,55.4,-3.4,115316804,Northern Europe                
+2012,united states                   ,37.1,-95.7,145952556,Northern America               
+2012,uruguay                         ,-32.5,-55.8,3590999,Latin America and the Caribbean
+2012,uzbekistan                      ,41.4,64.6,2207955,Central Asia                   
+2012,vanuatu                         ,-15.4,167.0,147156,Melanesia                      
+2012,venezuela                       ,6.4,-66.6,3469283,Latin America and the Caribbean
+2012,yemen                           ,15.6,48.5,1307329,Western Asia                   
+2012,zambia                          ,-13.1,27.8,1311806,Sub-Saharan Africa             
+2012,zimbabwe                        ,-19.0,29.2,4811846,Sub-Saharan Africa             
+2013,afghanistan                     ,33.9,67.7,1041298,Southern Asia                  
+2013,albania                         ,41.2,20.2,2851316,Southern Europe                
+2013,algeria                         ,28.0,1.7,5689647,Northern Africa                
+2013,andorra                         ,42.5,1.6,4,Southern Europe                
+2013,angola                          ,-11.2,17.9,1514399,Sub-Saharan Africa             
+2013,antigua and barbuda             ,17.1,-61.8,451045,Latin America and the Caribbean
+2013,argentina                       ,-38.4,-63.6,12499768,Latin America and the Caribbean
+2013,armenia                         ,40.1,45.0,1739047,Western Asia                   
+2013,australia                       ,-25.3,133.8,21447354,Australia and New Zealand      
+2013,austria                         ,47.5,14.6,34273313,Western Europe                 
+2013,azerbaijan                      ,40.1,47.6,7116279,Western Asia                   
+2013,bahamas                         ,25.0,-77.4,1984239,Latin America and the Caribbean
+2013,bahrain                         ,25.9,50.6,10836048,Western Asia                   
+2013,bangladesh                      ,23.7,90.4,4089374,Southern Asia                  
+2013,barbados                        ,13.2,-59.5,912947,Latin America and the Caribbean
+2013,belarus                         ,53.7,28.0,9400308,Eastern Europe                 
+2013,belgium                         ,50.5,4.5,27465414,Western Europe                 
+2013,belize                          ,17.2,-88.5,393400,Latin America and the Caribbean
+2013,benin                           ,9.3,2.3,584212,Sub-Saharan Africa             
+2013,bermuda                         ,32.3,-64.8,523691,Northern America               
+2013,bhutan                          ,27.5,90.4,207867,Southern Asia                  
+2013,bolivia                         ,-16.3,-63.6,1797179,Latin America and the Caribbean
+2013,bosnia and herzegovina          ,43.9,17.7,1629426,Southern Europe                
+2013,botswana                        ,-22.3,24.7,1871133,Sub-Saharan Africa             
+2013,brazil                          ,-14.2,-51.9,14194084,Latin America and the Caribbean
+2013,brunei                          ,4.5,114.7,1751099,South-eastern Asia             
+2013,bulgaria                        ,42.7,25.5,13188523,Eastern Europe                 
+2013,burkina faso                    ,12.2,-1.6,407124,Sub-Saharan Africa             
+2013,burundi                         ,-3.4,29.9,162433,Sub-Saharan Africa             
+2013,cambodia                        ,12.6,105.0,3527760,South-eastern Asia             
+2013,cameroon                        ,7.4,12.4,843758,Sub-Saharan Africa             
+2013,canada                          ,56.1,-106.3,52844089,Northern America               
+2013,cape verde                      ,16.0,-24.0,411491,Sub-Saharan Africa             
+2013,cayman islands                  ,19.5,-80.6,703773,Latin America and the Caribbean
+2013,central african republic        ,6.6,20.9,88050,Sub-Saharan Africa             
+2013,chad                            ,15.5,18.7,162613,Sub-Saharan Africa             
+2013,chile                           ,-35.7,-71.5,6644008,Latin America and the Caribbean
+2013,china                           ,35.9,104.2,147097606,Eastern Asia                   
+2013,colombia                        ,4.6,-74.3,5638774,Latin America and the Caribbean
+2013,comoros                         ,-11.9,43.9,73616,Sub-Saharan Africa             
+2013,congo [drc]                     ,-4.0,21.8,672534,Sub-Saharan Africa             
+2013,congo [republic]                ,-0.2,15.8,579784,Sub-Saharan Africa             
+2013,costa rica                      ,9.7,-83.8,3290814,Latin America and the Caribbean
+2013,croatia                         ,45.1,15.2,10961257,Southern Europe                
+2013,cuba                            ,21.5,-77.8,2933568,Latin America and the Caribbean
+2013,cyprus                          ,35.1,33.4,5583460,Western Asia                   
+2013,czech republic                  ,49.8,15.5,27735519,Eastern Europe                 
+2013,că´te d'ivoire                  ,7.5,-5.5,809848,Sub-Saharan Africa             
+2013,denmark                         ,56.3,9.5,21337643,Northern Europe                
+2013,djibouti                        ,11.8,42.6,172920,Sub-Saharan Africa             
+2013,dominica                        ,15.4,-61.4,161809,Latin America and the Caribbean
+2013,dominican republic              ,18.7,-70.2,6002641,Latin America and the Caribbean
+2013,ecuador                         ,-1.8,-78.2,2694326,Latin America and the Caribbean
+2013,egypt                           ,26.8,30.8,14949585,Northern Africa                
+2013,el salvador                     ,13.8,-88.9,2468989,Latin America and the Caribbean
+2013,equatorial guinea               ,1.7,10.3,187843,Sub-Saharan Africa             
+2013,eritrea                         ,15.2,39.8,169476,Sub-Saharan Africa             
+2013,estonia                         ,58.6,25.0,3567345,Northern Europe                
+2013,ethiopia                        ,9.1,40.5,1570489,Sub-Saharan Africa             
+2013,fiji                            ,-16.6,179.4,930817,Melanesia                      
+2013,finland                         ,61.9,25.7,6782852,Northern Europe                
+2013,france                          ,46.2,2.2,117585405,Western Europe                 
+2013,gabon                           ,-0.8,11.6,515030,Sub-Saharan Africa             
+2013,gambia                          ,13.4,-15.3,253684,Sub-Saharan Africa             
+2013,georgia                         ,42.3,43.4,7116373,Western Asia                   
+2013,germany                         ,51.2,10.5,155952070,Western Europe                 
+2013,ghana                           ,7.9,-1.0,1190737,Sub-Saharan Africa             
+2013,gibraltar                       ,36.1,-5.3,273883,Southern Europe                
+2013,greece                          ,39.1,21.8,19079504,Southern Europe                
+2013,guatemala                       ,15.8,-90.2,2846399,Latin America and the Caribbean
+2013,guinea                          ,9.9,-9.7,309026,Sub-Saharan Africa             
+2013,guinea-bissau                   ,11.8,-15.2,65078,Sub-Saharan Africa             
+2013,guyana                          ,4.9,-58.9,372450,Latin America and the Caribbean
+2013,haiti                           ,19.0,-72.3,834333,Latin America and the Caribbean
+2013,honduras                        ,15.2,-86.2,1694621,Latin America and the Caribbean
+2013,hong kong                       ,22.4,114.1,110627061,Eastern Asia                   
+2013,hungary                         ,47.2,19.5,16025425,Eastern Europe                 
+2013,iceland                         ,65.0,-19.0,1576330,Northern Europe                
+2013,india                           ,20.6,79.0,29664560,Southern Asia                  
+2013,indonesia                       ,-0.8,113.9,19720555,South-eastern Asia             
+2013,iran                            ,32.4,53.7,9358542,Southern Asia                  
+2013,iraq                            ,33.2,43.7,5078302,Western Asia                   
+2013,ireland                         ,53.4,-8.2,25579051,Northern Europe                
+2013,israel                          ,31.0,34.9,8279460,Western Asia                   
+2013,italy                           ,41.9,12.6,77863627,Southern Europe                
+2013,jamaica                         ,18.1,-77.3,2925293,Latin America and the Caribbean
+2013,japan                           ,36.2,138.3,31235196,Eastern Asia                   
+2013,jordan                          ,30.6,36.2,5627809,Western Asia                   
+2013,kazakhstan                      ,48.0,66.9,15427749,Central Asia                   
+2013,kenya                           ,0.0,37.9,2298784,Sub-Saharan Africa             
+2013,kiribati                        ,-3.4,-168.7,38503,Micronesia                     
+2013,kuwait                          ,29.3,47.5,10816243,Western Asia                   
+2013,kyrgyzstan                      ,41.2,74.8,5723682,Central Asia                   
+2013,latvia                          ,56.9,24.6,7727214,Northern Europe                
+2013,lebanon                         ,33.9,35.9,4244393,Western Asia                   
+2013,lesotho                         ,-29.6,28.2,1896528,Sub-Saharan Africa             
+2013,liberia                         ,6.4,-9.4,172328,Sub-Saharan Africa             
+2013,libya                           ,26.3,17.2,3018238,Northern Africa                
+2013,lithuania                       ,55.2,23.9,8581611,Northern Europe                
+2013,luxembourg                      ,49.8,6.1,8599907,Western Europe                 
+2013,macedonia [fyrom]               ,41.6,21.7,1757568,Southern Europe                
+2013,madagascar                      ,-18.8,46.9,326615,Sub-Saharan Africa             
+2013,malawi                          ,-13.3,34.3,1040294,Sub-Saharan Africa             
+2013,malaysia                        ,4.2,102.0,36926588,South-eastern Asia             
+2013,maldives                        ,3.2,73.2,1566010,Southern Asia                  
+2013,mali                            ,17.6,-4.0,501305,Sub-Saharan Africa             
+2013,malta                           ,35.9,14.4,2644130,Southern Europe                
+2013,marshall islands                ,7.1,171.2,32519,Micronesia                     
+2013,mauritania                      ,21.0,-10.9,239750,Sub-Saharan Africa             
+2013,mauritius                       ,-20.3,57.6,1235909,Sub-Saharan Africa             
+2013,mexico                          ,23.6,-102.6,40559845,Latin America and the Caribbean
+2013,micronesia                      ,7.4,150.6,18350,Micronesia                     
+2013,moldova                         ,47.4,28.4,8534226,Eastern Europe                 
+2013,mongolia                        ,46.9,103.8,1902727,Eastern Asia                   
+2013,morocco                         ,31.8,-7.1,9341185,Northern Africa                
+2013,mozambique                      ,-18.7,35.5,3141975,Sub-Saharan Africa             
+2013,myanmar [burma]                 ,21.9,96.0,2833585,South-eastern Asia             
+2013,namibia                         ,-23.0,18.5,1428968,Sub-Saharan Africa             
+2013,nauru                           ,-0.5,166.9,30050,Micronesia                     
+2013,nepal                           ,28.4,84.1,2559341,Southern Asia                  
+2013,netherlands                     ,52.1,5.3,40448423,Western Europe                 
+2013,new zealand                     ,-40.9,174.9,6550364,Australia and New Zealand      
+2013,nicaragua                       ,12.9,-85.2,1829640,Latin America and the Caribbean
+2013,niger                           ,17.6,8.1,155952,Sub-Saharan Africa             
+2013,nigeria                         ,9.1,8.7,3214731,Sub-Saharan Africa             
+2013,niue                            ,-19.1,-169.9,10965,Polynesia                      
+2013,north korea                     ,40.3,127.5,84706,Eastern Asia                   
+2013,norway                          ,60.5,8.5,18982947,Northern Europe                
+2013,oman                            ,21.5,55.9,3586896,Western Asia                   
+2013,pakistan                        ,30.4,69.3,7698456,Southern Asia                  
+2013,palau                           ,7.5,134.6,114745,Micronesia                     
+2013,palestinian territories         ,32.0,35.2,13851,Western Asia                   
+2013,panama                          ,8.5,-80.8,2373052,Latin America and the Caribbean
+2013,papua new guinea                ,-6.3,144.0,329146,Melanesia                      
+2013,paraguay                        ,-23.4,-58.4,1595785,Latin America and the Caribbean
+2013,peru                            ,-9.2,-75.0,4772088,Latin America and the Caribbean
+2013,philippines                     ,12.9,121.8,13062212,South-eastern Asia             
+2013,poland                          ,51.9,19.1,88421526,Eastern Europe                 
+2013,portugal                        ,39.4,-8.2,17545961,Southern Europe                
+2013,qatar                           ,25.4,51.2,7337387,Western Asia                   
+2013,romania                         ,45.9,25.0,14702143,Eastern Europe                 
+2013,russia                          ,61.5,105.3,73537729,Eastern Europe                 
+2013,rwanda                          ,-1.9,29.9,972803,Sub-Saharan Africa             
+2013,saint kitts and nevis           ,17.4,-62.8,189421,Latin America and the Caribbean
+2013,saint lucia                     ,13.9,-61.0,488373,Latin America and the Caribbean
+2013,saint vincent and the grenadines,13.0,-61.3,230812,Latin America and the Caribbean
+2013,samoa                           ,-13.8,-172.1,167736,Polynesia                      
+2013,san marino                      ,43.9,12.5,275286,Southern Europe                
+2013,saudi arabia                    ,23.9,45.1,34810820,Western Asia                   
+2013,senegal                         ,14.5,-14.5,1250065,Sub-Saharan Africa             
+2013,seychelles                      ,-4.7,55.5,310410,Sub-Saharan Africa             
+2013,sierra leone                    ,8.5,-11.8,255155,Sub-Saharan Africa             
+2013,singapore                       ,1.4,103.8,37622729,South-eastern Asia             
+2013,slovakia                        ,48.7,19.7,12156641,Eastern Europe                 
+2013,slovenia                        ,46.2,15.0,3697769,Southern Europe                
+2013,solomon islands                 ,-9.6,160.2,54104,Melanesia                      
+2013,somalia                         ,5.2,46.2,164808,Sub-Saharan Africa             
+2013,south africa                    ,-30.6,22.9,13454612,Sub-Saharan Africa             
+2013,south korea                     ,35.9,127.8,29588551,Eastern Asia                   
+2013,spain                           ,40.5,-3.7,90650396,Southern Europe                
+2013,sri lanka                       ,7.9,80.8,3439472,Southern Asia                  
+2013,sudan                           ,12.9,30.2,2036391,Northern Africa                
+2013,suriname                        ,3.9,-56.0,247948,Latin America and the Caribbean
+2013,sweden                          ,60.1,18.6,26023836,Northern Europe                
+2013,switzerland                     ,46.8,8.2,25795227,Western Europe                 
+2013,syria                           ,34.8,39.0,426073,Western Asia                   
+2013,tajikistan                      ,38.9,71.3,2418886,Central Asia                   
+2013,tanzania                        ,-6.4,34.9,1759905,Sub-Saharan Africa             
+2013,thailand                        ,15.9,101.0,32800605,South-eastern Asia             
+2013,timor-leste                     ,-8.9,125.7,24909,South-eastern Asia             
+2013,togo                            ,8.6,0.8,285333,Sub-Saharan Africa             
+2013,tonga                           ,-21.2,-175.2,104976,Polynesia                      
+2013,trinidad and tobago             ,10.7,-61.2,1001180,Latin America and the Caribbean
+2013,tunisia                         ,33.9,9.5,7013421,Northern Africa                
+2013,turkey                          ,39.0,35.2,42394953,Western Asia                   
+2013,turkmenistan                    ,39.0,59.6,611423,Central Asia                   
+2013,turks and caicos islands        ,21.7,-71.8,450055,Latin America and the Caribbean
+2013,tuvalu                          ,-7.1,177.6,4774,Polynesia                      
+2013,uganda                          ,1.4,32.3,1410032,Sub-Saharan Africa             
+2013,ukraine                         ,48.4,31.2,44589983,Eastern Europe                 
+2013,united arab emirates            ,23.4,53.8,32791920,Western Asia                   
+2013,united kingdom                  ,55.4,-3.4,118843541,Northern Europe                
+2013,united states                   ,37.1,-95.7,150363638,Northern America               
+2013,uruguay                         ,-32.5,-55.8,3600776,Latin America and the Caribbean
+2013,uzbekistan                      ,41.4,64.6,8419947,Central Asia                   
+2013,vanuatu                         ,-15.4,167.0,154387,Melanesia                      
+2013,venezuela                       ,6.4,-66.6,3823221,Latin America and the Caribbean
+2013,yemen                           ,15.6,48.5,1448579,Western Asia                   
+2013,zambia                          ,-13.1,27.8,1257713,Sub-Saharan Africa             
+2013,zimbabwe                        ,-19.0,29.2,4731105,Sub-Saharan Africa             
+2014,afghanistan                     ,33.9,67.7,935163,Southern Asia                  
+2014,albania                         ,41.2,20.2,2932951,Southern Europe                
+2014,algeria                         ,28.0,1.7,6481326,Northern Africa                
+2014,andorra                         ,42.5,1.6,1,Southern Europe                
+2014,angola                          ,-11.2,17.9,1508393,Sub-Saharan Africa             
+2014,antigua and barbuda             ,17.1,-61.8,465797,Latin America and the Caribbean
+2014,argentina                       ,-38.4,-63.6,13043614,Latin America and the Caribbean
+2014,armenia                         ,40.1,45.0,2005278,Western Asia                   
+2014,australia                       ,-25.3,133.8,22348650,Australia and New Zealand      
+2014,austria                         ,47.5,14.6,35647351,Western Europe                 
+2014,azerbaijan                      ,40.1,47.6,6953330,Western Asia                   
+2014,bahamas                         ,25.0,-77.4,2130568,Latin America and the Caribbean
+2014,bahrain                         ,25.9,50.6,12272775,Western Asia                   
+2014,bangladesh                      ,23.7,90.4,4995126,Southern Asia                  
+2014,barbados                        ,13.2,-59.5,885345,Latin America and the Caribbean
+2014,belarus                         ,53.7,28.0,7988698,Eastern Europe                 
+2014,belgium                         ,50.5,4.5,29184127,Western Europe                 
+2014,belize                          ,17.2,-88.5,426781,Latin America and the Caribbean
+2014,benin                           ,9.3,2.3,635057,Sub-Saharan Africa             
+2014,bermuda                         ,32.3,-64.8,512685,Northern America               
+2014,bhutan                          ,27.5,90.4,283174,Southern Asia                  
+2014,bolivia                         ,-16.3,-63.6,1991228,Latin America and the Caribbean
+2014,bosnia and herzegovina          ,43.9,17.7,1597756,Southern Europe                
+2014,botswana                        ,-22.3,24.7,2361497,Sub-Saharan Africa             
+2014,brazil                          ,-14.2,-51.9,15455613,Latin America and the Caribbean
+2014,brunei                          ,4.5,114.7,1693759,South-eastern Asia             
+2014,bulgaria                        ,42.7,25.5,14716083,Eastern Europe                 
+2014,burkina faso                    ,12.2,-1.6,388240,Sub-Saharan Africa             
+2014,burundi                         ,-3.4,29.9,153299,Sub-Saharan Africa             
+2014,cambodia                        ,12.6,105.0,3816534,South-eastern Asia             
+2014,cameroon                        ,7.4,12.4,933868,Sub-Saharan Africa             
+2014,canada                          ,56.1,-106.3,54067282,Northern America               
+2014,cape verde                      ,16.0,-24.0,468748,Sub-Saharan Africa             
+2014,cayman islands                  ,19.5,-80.6,749232,Latin America and the Caribbean
+2014,central african republic        ,6.6,20.9,144832,Sub-Saharan Africa             
+2014,chad                            ,15.5,18.7,188414,Sub-Saharan Africa             
+2014,chile                           ,-35.7,-71.5,7172407,Latin America and the Caribbean
+2014,china                           ,35.9,104.2,152666366,Eastern Asia                   
+2014,colombia                        ,4.6,-74.3,6470278,Latin America and the Caribbean
+2014,comoros                         ,-11.9,43.9,69726,Sub-Saharan Africa             
+2014,congo [drc]                     ,-4.0,21.8,590258,Sub-Saharan Africa             
+2014,congo [republic]                ,-0.2,15.8,338095,Sub-Saharan Africa             
+2014,costa rica                      ,9.7,-83.8,3519456,Latin America and the Caribbean
+2014,croatia                         ,45.1,15.2,11875715,Southern Europe                
+2014,cuba                            ,21.5,-77.8,3537085,Latin America and the Caribbean
+2014,cyprus                          ,35.1,33.4,6374857,Western Asia                   
+2014,czech republic                  ,49.8,15.5,26245514,Eastern Europe                 
+2014,că´te d'ivoire                  ,7.5,-5.5,847115,Sub-Saharan Africa             
+2014,denmark                         ,56.3,9.5,23033461,Northern Europe                
+2014,djibouti                        ,11.8,42.6,188025,Sub-Saharan Africa             
+2014,dominica                        ,15.4,-61.4,154905,Latin America and the Caribbean
+2014,dominican republic              ,18.7,-70.2,6904813,Latin America and the Caribbean
+2014,ecuador                         ,-1.8,-78.2,3044592,Latin America and the Caribbean
+2014,egypt                           ,26.8,30.8,16752187,Northern Africa                
+2014,el salvador                     ,13.8,-88.9,2745505,Latin America and the Caribbean
+2014,equatorial guinea               ,1.7,10.3,194932,Sub-Saharan Africa             
+2014,eritrea                         ,15.2,39.8,174089,Sub-Saharan Africa             
+2014,estonia                         ,58.6,25.0,3754407,Northern Europe                
+2014,ethiopia                        ,9.1,40.5,1380373,Sub-Saharan Africa             
+2014,fiji                            ,-16.6,179.4,961352,Melanesia                      
+2014,finland                         ,61.9,25.7,7070492,Northern Europe                
+2014,france                          ,46.2,2.2,120912457,Western Europe                 
+2014,gabon                           ,-0.8,11.6,553134,Sub-Saharan Africa             
+2014,gambia                          ,13.4,-15.3,219044,Sub-Saharan Africa             
+2014,georgia                         ,42.3,43.4,7142705,Western Asia                   
+2014,germany                         ,51.2,10.5,164534838,Western Europe                 
+2014,ghana                           ,7.9,-1.0,1349345,Sub-Saharan Africa             
+2014,gibraltar                       ,36.1,-5.3,294881,Southern Europe                
+2014,greece                          ,39.1,21.8,26198024,Southern Europe                
+2014,guatemala                       ,15.8,-90.2,3209461,Latin America and the Caribbean
+2014,guinea                          ,9.9,-9.7,266694,Sub-Saharan Africa             
+2014,guinea-bissau                   ,11.8,-15.2,79376,Sub-Saharan Africa             
+2014,guyana                          ,4.9,-58.9,383060,Latin America and the Caribbean
+2014,haiti                           ,19.0,-72.3,867717,Latin America and the Caribbean
+2014,honduras                        ,15.2,-86.2,1810781,Latin America and the Caribbean
+2014,hong kong                       ,22.4,114.1,112437946,Eastern Asia                   
+2014,hungary                         ,47.2,19.5,17875820,Eastern Europe                 
+2014,iceland                         ,65.0,-19.0,1872588,Northern Europe                
+2014,india                           ,20.6,79.0,32407552,Southern Asia                  
+2014,indonesia                       ,-0.8,113.9,20641301,South-eastern Asia             
+2014,iran                            ,32.4,53.7,7905092,Southern Asia                  
+2014,iraq                            ,33.2,43.7,2353132,Western Asia                   
+2014,ireland                         ,53.4,-8.2,26318611,Northern Europe                
+2014,israel                          ,31.0,34.9,9164344,Western Asia                   
+2014,italy                           ,41.9,12.6,81864499,Southern Europe                
+2014,jamaica                         ,18.1,-77.3,3225855,Latin America and the Caribbean
+2014,japan                           ,36.2,138.3,32878666,Eastern Asia                   
+2014,jordan                          ,30.6,36.2,6332128,Western Asia                   
+2014,kazakhstan                      ,48.0,66.9,12053475,Central Asia                   
+2014,kenya                           ,0.0,37.9,2430101,Sub-Saharan Africa             
+2014,kiribati                        ,-3.4,-168.7,37084,Micronesia                     
+2014,kuwait                          ,29.3,47.5,11739097,Western Asia                   
+2014,kyrgyzstan                      ,41.2,74.8,5077921,Central Asia                   
+2014,latvia                          ,56.9,24.6,8586333,Northern Europe                
+2014,lebanon                         ,33.9,35.9,4207394,Western Asia                   
+2014,lesotho                         ,-29.6,28.2,2553880,Sub-Saharan Africa             
+2014,liberia                         ,6.4,-9.4,177798,Sub-Saharan Africa             
+2014,libya                           ,26.3,17.2,2273785,Northern Africa                
+2014,lithuania                       ,55.2,23.9,8660903,Northern Europe                
+2014,luxembourg                      ,49.8,6.1,9138440,Western Europe                 
+2014,macedonia [fyrom]               ,41.6,21.7,4451198,Southern Europe                
+2014,madagascar                      ,-18.8,46.9,303638,Sub-Saharan Africa             
+2014,malawi                          ,-13.3,34.3,1117123,Sub-Saharan Africa             
+2014,malaysia                        ,4.2,102.0,38534933,South-eastern Asia             
+2014,maldives                        ,3.2,73.2,1752538,Southern Asia                  
+2014,mali                            ,17.6,-4.0,532205,Sub-Saharan Africa             
+2014,malta                           ,35.9,14.4,2943428,Southern Europe                
+2014,marshall islands                ,7.1,171.2,32778,Micronesia                     
+2014,mauritania                      ,21.0,-10.9,247751,Sub-Saharan Africa             
+2014,mauritius                       ,-20.3,57.6,1324109,Sub-Saharan Africa             
+2014,mexico                          ,23.6,-102.6,48751234,Latin America and the Caribbean
+2014,micronesia                      ,7.4,150.6,22820,Micronesia                     
+2014,moldova                         ,47.4,28.4,7494013,Eastern Europe                 
+2014,mongolia                        ,46.9,103.8,1900195,Eastern Asia                   
+2014,morocco                         ,31.8,-7.1,10143341,Northern Africa                
+2014,mozambique                      ,-18.7,35.5,3203842,Sub-Saharan Africa             
+2014,myanmar [burma]                 ,21.9,96.0,3995476,South-eastern Asia             
+2014,namibia                         ,-23.0,18.5,1545856,Sub-Saharan Africa             
+2014,nauru                           ,-0.5,166.9,34958,Micronesia                     
+2014,nepal                           ,28.4,84.1,2831736,Southern Asia                  
+2014,netherlands                     ,52.1,5.3,42009780,Western Europe                 
+2014,new zealand                     ,-40.9,174.9,6778794,Australia and New Zealand      
+2014,nicaragua                       ,12.9,-85.2,1871749,Latin America and the Caribbean
+2014,niger                           ,17.6,8.1,163169,Sub-Saharan Africa             
+2014,nigeria                         ,9.1,8.7,3528018,Sub-Saharan Africa             
+2014,niue                            ,-19.1,-169.9,13559,Polynesia                      
+2014,north korea                     ,40.3,127.5,98317,Eastern Asia                   
+2014,norway                          ,60.5,8.5,20199646,Northern Europe                
+2014,oman                            ,21.5,55.9,3958153,Western Asia                   
+2014,pakistan                        ,30.4,69.3,8621129,Southern Asia                  
+2014,palau                           ,7.5,134.6,154200,Micronesia                     
+2014,palestinian territories         ,32.0,35.2,22217,Western Asia                   
+2014,panama                          ,8.5,-80.8,2428606,Latin America and the Caribbean
+2014,papua new guinea                ,-6.3,144.0,337345,Melanesia                      
+2014,paraguay                        ,-23.4,-58.4,1878133,Latin America and the Caribbean
+2014,peru                            ,-9.2,-75.0,4871625,Latin America and the Caribbean
+2014,philippines                     ,12.9,121.8,13462241,South-eastern Asia             
+2014,poland                          ,51.9,19.1,89672917,Eastern Europe                 
+2014,portugal                        ,39.4,-8.2,20186930,Southern Europe                
+2014,qatar                           ,25.4,51.2,7772320,Western Asia                   
+2014,romania                         ,45.9,25.0,16126480,Eastern Europe                 
+2014,russia                          ,61.5,105.3,66315448,Eastern Europe                 
+2014,rwanda                          ,-1.9,29.9,1042573,Sub-Saharan Africa             
+2014,saint kitts and nevis           ,17.4,-62.8,195598,Latin America and the Caribbean
+2014,saint lucia                     ,13.9,-61.0,511409,Latin America and the Caribbean
+2014,saint vincent and the grenadines,13.0,-61.3,243956,Latin America and the Caribbean
+2014,samoa                           ,-13.8,-172.1,179754,Polynesia                      
+2014,san marino                      ,43.9,12.5,253178,Southern Europe                
+2014,saudi arabia                    ,23.9,45.1,39850065,Western Asia                   
+2014,senegal                         ,14.5,-14.5,1354636,Sub-Saharan Africa             
+2014,seychelles                      ,-4.7,55.5,339596,Sub-Saharan Africa             
+2014,sierra leone                    ,8.5,-11.8,234911,Sub-Saharan Africa             
+2014,singapore                       ,1.4,103.8,38123890,South-eastern Asia             
+2014,slovakia                        ,48.7,19.7,11731545,Eastern Europe                 
+2014,slovenia                        ,46.2,15.0,3958085,Southern Europe                
+2014,solomon islands                 ,-9.6,160.2,56009,Melanesia                      
+2014,somalia                         ,5.2,46.2,230075,Sub-Saharan Africa             
+2014,south africa                    ,-30.6,22.9,14174730,Sub-Saharan Africa             
+2014,south korea                     ,35.9,127.8,32936174,Eastern Asia                   
+2014,spain                           ,40.5,-3.7,101560526,Southern Europe                
+2014,sri lanka                       ,7.9,80.8,3767940,Southern Asia                  
+2014,sudan                           ,12.9,30.2,2223390,Northern Africa                
+2014,suriname                        ,3.9,-56.0,281550,Latin America and the Caribbean
+2014,sweden                          ,60.1,18.6,27891341,Northern Europe                
+2014,switzerland                     ,46.8,8.2,27734235,Western Europe                 
+2014,syria                           ,34.8,39.0,2244,Western Asia                   
+2014,tajikistan                      ,38.9,71.3,1802770,Central Asia                   
+2014,tanzania                        ,-6.4,34.9,1875031,Sub-Saharan Africa             
+2014,thailand                        ,15.9,101.0,32703974,South-eastern Asia             
+2014,timor-leste                     ,-8.9,125.7,24465,South-eastern Asia             
+2014,togo                            ,8.6,0.8,295352,Sub-Saharan Africa             
+2014,tonga                           ,-21.2,-175.2,113264,Polynesia                      
+2014,trinidad and tobago             ,10.7,-61.2,1094790,Latin America and the Caribbean
+2014,tunisia                         ,33.9,9.5,7166008,Northern Africa                
+2014,turkey                          ,39.0,35.2,47131498,Western Asia                   
+2014,turkmenistan                    ,39.0,59.6,652536,Central Asia                   
+2014,turks and caicos islands        ,21.7,-71.8,537607,Latin America and the Caribbean
+2014,tuvalu                          ,-7.1,177.6,5331,Polynesia                      
+2014,uganda                          ,1.4,32.3,1500914,Sub-Saharan Africa             
+2014,ukraine                         ,48.4,31.2,36651334,Eastern Europe                 
+2014,united arab emirates            ,23.4,53.8,34504145,Western Asia                   
+2014,united kingdom                  ,55.4,-3.4,127834794,Northern Europe                
+2014,united states                   ,37.1,-95.7,162926281,Northern America               
+2014,uruguay                         ,-32.5,-55.8,3739110,Latin America and the Caribbean
+2014,uzbekistan                      ,41.4,64.6,2273439,Central Asia                   
+2014,vanuatu                         ,-15.4,167.0,161008,Melanesia                      
+2014,venezuela                       ,6.4,-66.6,3408095,Latin America and the Caribbean
+2014,yemen                           ,15.6,48.5,1362474,Western Asia                   
+2014,zambia                          ,-13.1,27.8,1361698,Sub-Saharan Africa             
+2014,zimbabwe                        ,-19.0,29.2,5234184,Sub-Saharan Africa             
+2015,afghanistan                     ,33.9,67.7,998303,Southern Asia                  
+2015,albania                         ,41.2,20.2,3015022,Southern Europe                
+2015,algeria                         ,28.0,1.7,7399325,Northern Africa                
+2015,andorra                         ,42.5,1.6,2,Southern Europe                
+2015,angola                          ,-11.2,17.9,1516762,Sub-Saharan Africa             
+2015,antigua and barbuda             ,17.1,-61.8,469074,Latin America and the Caribbean
+2015,argentina                       ,-38.4,-63.6,15020441,Latin America and the Caribbean
+2015,armenia                         ,40.1,45.0,1845978,Western Asia                   
+2015,australia                       ,-25.3,133.8,23052729,Australia and New Zealand      
+2015,austria                         ,47.5,14.6,37562901,Western Europe                 
+2015,azerbaijan                      ,40.1,47.6,6644687,Western Asia                   
+2015,bahamas                         ,25.0,-77.4,2171546,Latin America and the Caribbean
+2015,bahrain                         ,25.9,50.6,13163750,Western Asia                   
+2015,bangladesh                      ,23.7,90.4,4841613,Southern Asia                  
+2015,barbados                        ,13.2,-59.5,964388,Latin America and the Caribbean
+2015,belarus                         ,53.7,28.0,7770024,Eastern Europe                 
+2015,belgium                         ,50.5,4.5,31131203,Western Europe                 
+2015,belize                          ,17.2,-88.5,464277,Latin America and the Caribbean
+2015,benin                           ,9.3,2.3,698297,Sub-Saharan Africa             
+2015,bermuda                         ,32.3,-64.8,504991,Northern America               
+2015,bhutan                          ,27.5,90.4,311174,Southern Asia                  
+2015,bolivia                         ,-16.3,-63.6,2095827,Latin America and the Caribbean
+2015,bosnia and herzegovina          ,43.9,17.7,1760513,Southern Europe                
+2015,botswana                        ,-22.3,24.7,2144188,Sub-Saharan Africa             
+2015,brazil                          ,-14.2,-51.9,15890787,Latin America and the Caribbean
+2015,brunei                          ,4.5,114.7,1595349,South-eastern Asia             
+2015,bulgaria                        ,42.7,25.5,16077660,Eastern Europe                 
+2015,burkina faso                    ,12.2,-1.6,367175,Sub-Saharan Africa             
+2015,burundi                         ,-3.4,29.9,129599,Sub-Saharan Africa             
+2015,cambodia                        ,12.6,105.0,4160067,South-eastern Asia             
+2015,cameroon                        ,7.4,12.4,932565,Sub-Saharan Africa             
+2015,canada                          ,56.1,-106.3,54374276,Northern America               
+2015,cape verde                      ,16.0,-24.0,489493,Sub-Saharan Africa             
+2015,cayman islands                  ,19.5,-80.6,756120,Latin America and the Caribbean
+2015,central african republic        ,6.6,20.9,125618,Sub-Saharan Africa             
+2015,chad                            ,15.5,18.7,202081,Sub-Saharan Africa             
+2015,chile                           ,-35.7,-71.5,8405389,Latin America and the Caribbean
+2015,china                           ,35.9,104.2,166722013,Eastern Asia                   
+2015,colombia                        ,4.6,-74.3,7080698,Latin America and the Caribbean
+2015,comoros                         ,-11.9,43.9,76361,Sub-Saharan Africa             
+2015,congo [drc]                     ,-4.0,21.8,609599,Sub-Saharan Africa             
+2015,congo [republic]                ,-0.2,15.8,353367,Sub-Saharan Africa             
+2015,costa rica                      ,9.7,-83.8,3907644,Latin America and the Caribbean
+2015,croatia                         ,45.1,15.2,12995985,Southern Europe                
+2015,cuba                            ,21.5,-77.8,4489719,Latin America and the Caribbean
+2015,cyprus                          ,35.1,33.4,6686564,Western Asia                   
+2015,czech republic                  ,49.8,15.5,28305433,Eastern Europe                 
+2015,că´te d'ivoire                  ,7.5,-5.5,901003,Sub-Saharan Africa             
+2015,denmark                         ,56.3,9.5,20452257,Northern Europe                
+2015,djibouti                        ,11.8,42.6,260041,Sub-Saharan Africa             
+2015,dominica                        ,15.4,-61.4,119476,Latin America and the Caribbean
+2015,dominican republic              ,18.7,-70.2,7463922,Latin America and the Caribbean
+2015,ecuador                         ,-1.8,-78.2,3246846,Latin America and the Caribbean
+2015,egypt                           ,26.8,30.8,17374221,Northern Africa                
+2015,el salvador                     ,13.8,-88.9,2931880,Latin America and the Caribbean
+2015,equatorial guinea               ,1.7,10.3,181777,Sub-Saharan Africa             
+2015,eritrea                         ,15.2,39.8,115654,Sub-Saharan Africa             
+2015,estonia                         ,58.6,25.0,3757739,Northern Europe                
+2015,ethiopia                        ,9.1,40.5,1497578,Sub-Saharan Africa             
+2015,fiji                            ,-16.6,179.4,1053600,Melanesia                      
+2015,finland                         ,61.9,25.7,7612028,Northern Europe                
+2015,france                          ,46.2,2.2,123841181,Western Europe                 
+2015,gabon                           ,-0.8,11.6,538780,Sub-Saharan Africa             
+2015,gambia                          ,13.4,-15.3,201819,Sub-Saharan Africa             
+2015,georgia                         ,42.3,43.4,7433097,Western Asia                   
+2015,germany                         ,51.2,10.5,170531489,Western Europe                 
+2015,ghana                           ,7.9,-1.0,1331142,Sub-Saharan Africa             
+2015,gibraltar                       ,36.1,-5.3,319571,Southern Europe                
+2015,greece                          ,39.1,21.8,28605815,Southern Europe                
+2015,guatemala                       ,15.8,-90.2,3448218,Latin America and the Caribbean
+2015,guinea                          ,9.9,-9.7,240334,Sub-Saharan Africa             
+2015,guinea-bissau                   ,11.8,-15.2,66651,Sub-Saharan Africa             
+2015,guyana                          ,4.9,-58.9,402475,Latin America and the Caribbean
+2015,haiti                           ,19.0,-72.3,858221,Latin America and the Caribbean
+2015,honduras                        ,15.2,-86.2,1906098,Latin America and the Caribbean
+2015,hong kong                       ,22.4,114.1,116500668,Eastern Asia                   
+2015,hungary                         ,47.2,19.5,20595306,Eastern Europe                 
+2015,iceland                         ,65.0,-19.0,2425740,Northern Europe                
+2015,india                           ,20.6,79.0,33922896,Southern Asia                  
+2015,indonesia                       ,-0.8,113.9,20983205,South-eastern Asia             
+2015,iran                            ,32.4,53.7,8259746,Southern Asia                  
+2015,iraq                            ,33.2,43.7,2627050,Western Asia                   
+2015,ireland                         ,53.4,-8.2,28223275,Northern Europe                
+2015,israel                          ,31.0,34.9,9893464,Western Asia                   
+2015,italy                           ,41.9,12.6,88026613,Southern Europe                
+2015,jamaica                         ,18.1,-77.3,3367340,Latin America and the Caribbean
+2015,japan                           ,36.2,138.3,38184407,Eastern Asia                   
+2015,jordan                          ,30.6,36.2,5235858,Western Asia                   
+2015,kazakhstan                      ,48.0,66.9,12438042,Central Asia                   
+2015,kenya                           ,0.0,37.9,2485775,Sub-Saharan Africa             
+2015,kiribati                        ,-3.4,-168.7,36657,Micronesia                     
+2015,kuwait                          ,29.3,47.5,12308270,Western Asia                   
+2015,kyrgyzstan                      ,41.2,74.8,5582798,Central Asia                   
+2015,latvia                          ,56.9,24.6,8902822,Northern Europe                
+2015,lebanon                         ,33.9,35.9,4651956,Western Asia                   
+2015,lesotho                         ,-29.6,28.2,2462618,Sub-Saharan Africa             
+2015,liberia                         ,6.4,-9.4,128937,Sub-Saharan Africa             
+2015,libya                           ,26.3,17.2,853762,Northern Africa                
+2015,lithuania                       ,55.2,23.9,9285770,Northern Europe                
+2015,luxembourg                      ,49.8,6.1,9349745,Western Europe                 
+2015,macedonia [fyrom]               ,41.6,21.7,5416039,Southern Europe                
+2015,madagascar                      ,-18.8,46.9,317830,Sub-Saharan Africa             
+2015,malawi                          ,-13.3,34.3,939197,Sub-Saharan Africa             
+2015,malaysia                        ,4.2,102.0,38033617,South-eastern Asia             
+2015,maldives                        ,3.2,73.2,1794682,Southern Asia                  
+2015,mali                            ,17.6,-4.0,585041,Sub-Saharan Africa             
+2015,malta                           ,35.9,14.4,3195810,Southern Europe                
+2015,marshall islands                ,7.1,171.2,30254,Micronesia                     
+2015,mauritania                      ,21.0,-10.9,245707,Sub-Saharan Africa             
+2015,mauritius                       ,-20.3,57.6,1447648,Sub-Saharan Africa             
+2015,mexico                          ,23.6,-102.6,53245458,Latin America and the Caribbean
+2015,micronesia                      ,7.4,150.6,29463,Micronesia                     
+2015,moldova                         ,47.4,28.4,7898075,Eastern Europe                 
+2015,mongolia                        ,46.9,103.8,1977614,Eastern Asia                   
+2015,morocco                         ,31.8,-7.1,10329683,Northern Africa                
+2015,mozambique                      ,-18.7,35.5,3150193,Sub-Saharan Africa             
+2015,myanmar [burma]                 ,21.9,96.0,5584674,South-eastern Asia             
+2015,namibia                         ,-23.0,18.5,1539092,Sub-Saharan Africa             
+2015,nauru                           ,-0.5,166.9,32265,Micronesia                     
+2015,nepal                           ,28.4,84.1,2729612,Southern Asia                  
+2015,netherlands                     ,52.1,5.3,44329220,Western Europe                 
+2015,new zealand                     ,-40.9,174.9,7201140,Australia and New Zealand      
+2015,nicaragua                       ,12.9,-85.2,2079355,Latin America and the Caribbean
+2015,niger                           ,17.6,8.1,178567,Sub-Saharan Africa             
+2015,nigeria                         ,9.1,8.7,4015576,Sub-Saharan Africa             
+2015,niue                            ,-19.1,-169.9,13567,Polynesia                      
+2015,north korea                     ,40.3,127.5,106962,Eastern Asia                   
+2015,norway                          ,60.5,8.5,15459259,Northern Europe                
+2015,oman                            ,21.5,55.9,4791317,Western Asia                   
+2015,pakistan                        ,30.4,69.3,9398780,Southern Asia                  
+2015,palau                           ,7.5,134.6,193702,Micronesia                     
+2015,palestinian territories         ,32.0,35.2,16143,Western Asia                   
+2015,panama                          ,8.5,-80.8,2790721,Latin America and the Caribbean
+2015,papua new guinea                ,-6.3,144.0,356519,Melanesia                      
+2015,paraguay                        ,-23.4,-58.4,2511970,Latin America and the Caribbean
+2015,peru                            ,-9.2,-75.0,5189086,Latin America and the Caribbean
+2015,philippines                     ,12.9,121.8,14114310,South-eastern Asia             
+2015,poland                          ,51.9,19.1,95267698,Eastern Europe                 
+2015,portugal                        ,39.4,-8.2,22415326,Southern Europe                
+2015,qatar                           ,25.4,51.2,8697864,Western Asia                   
+2015,romania                         ,45.9,25.0,18948497,Eastern Europe                 
+2015,russia                          ,61.5,105.3,57124504,Eastern Europe                 
+2015,rwanda                          ,-1.9,29.9,970524,Sub-Saharan Africa             
+2015,saint kitts and nevis           ,17.4,-62.8,189753,Latin America and the Caribbean
+2015,saint lucia                     ,13.9,-61.0,511500,Latin America and the Caribbean
+2015,saint vincent and the grenadines,13.0,-61.3,235432,Latin America and the Caribbean
+2015,samoa                           ,-13.8,-172.1,202337,Polynesia                      
+2015,san marino                      ,43.9,12.5,131388,Southern Europe                
+2015,saudi arabia                    ,23.9,45.1,43788557,Western Asia                   
+2015,senegal                         ,14.5,-14.5,1313141,Sub-Saharan Africa             
+2015,seychelles                      ,-4.7,55.5,386720,Sub-Saharan Africa             
+2015,sierra leone                    ,8.5,-11.8,140576,Sub-Saharan Africa             
+2015,singapore                       ,1.4,103.8,37857848,South-eastern Asia             
+2015,slovakia                        ,48.7,19.7,13026347,Eastern Europe                 
+2015,slovenia                        ,46.2,15.0,4391745,Southern Europe                
+2015,solomon islands                 ,-9.6,160.2,68411,Melanesia                      
+2015,somalia                         ,5.2,46.2,315885,Sub-Saharan Africa             
+2015,south africa                    ,-30.6,22.9,14152893,Sub-Saharan Africa             
+2015,south korea                     ,35.9,127.8,36880435,Eastern Asia                   
+2015,spain                           ,40.5,-3.7,109201976,Southern Europe                
+2015,sri lanka                       ,7.9,80.8,4320444,Southern Asia                  
+2015,sudan                           ,12.9,30.2,2390716,Northern Africa                
+2015,suriname                        ,3.9,-56.0,284013,Latin America and the Caribbean
+2015,sweden                          ,60.1,18.6,16289055,Northern Europe                
+2015,switzerland                     ,46.8,8.2,29995989,Western Europe                 
+2015,syria                           ,34.8,39.0,116480,Western Asia                   
+2015,tajikistan                      ,38.9,71.3,1985766,Central Asia                   
+2015,tanzania                        ,-6.4,34.9,1890919,Sub-Saharan Africa             
+2015,thailand                        ,15.9,101.0,38610434,South-eastern Asia             
+2015,timor-leste                     ,-8.9,125.7,25112,South-eastern Asia             
+2015,togo                            ,8.6,0.8,337522,Sub-Saharan Africa             
+2015,tonga                           ,-21.2,-175.2,128714,Polynesia                      
+2015,trinidad and tobago             ,10.7,-61.2,1197063,Latin America and the Caribbean
+2015,tunisia                         ,33.9,9.5,6652535,Northern Africa                
+2015,turkey                          ,39.0,35.2,50082814,Western Asia                   
+2015,turkmenistan                    ,39.0,59.6,715595,Central Asia                   
+2015,turks and caicos islands        ,21.7,-71.8,592039,Latin America and the Caribbean
+2015,tuvalu                          ,-7.1,177.6,6550,Polynesia                      
+2015,uganda                          ,1.4,32.3,1505998,Sub-Saharan Africa             
+2015,ukraine                         ,48.4,31.2,37975270,Eastern Europe                 
+2015,united arab emirates            ,23.4,53.8,38501019,Western Asia                   
+2015,united kingdom                  ,55.4,-3.4,137757720,Northern Europe                
+2015,united states                   ,37.1,-95.7,172190713,Northern America               
+2015,uruguay                         ,-32.5,-55.8,3862463,Latin America and the Caribbean
+2015,uzbekistan                      ,41.4,64.6,2111934,Central Asia                   
+2015,vanuatu                         ,-15.4,167.0,146255,Melanesia                      
+2015,venezuela                       ,6.4,-66.6,3152682,Latin America and the Caribbean
+2015,yemen                           ,15.6,48.5,657704,Western Asia                   
+2015,zambia                          ,-13.1,27.8,1364502,Sub-Saharan Africa             
+2015,zimbabwe                        ,-19.0,29.2,5115729,Sub-Saharan Africa             
+2016,afghanistan                     ,33.9,67.7,963454,Southern Asia                  
+2016,albania                         ,41.2,20.2,3466102,Southern Europe                
+2016,algeria                         ,28.0,1.7,8758191,Northern Africa                
+2016,andorra                         ,42.5,1.6,0,Southern Europe                
+2016,angola                          ,-11.2,17.9,1235900,Sub-Saharan Africa             
+2016,antigua and barbuda             ,17.1,-61.8,498348,Latin America and the Caribbean
+2016,argentina                       ,-38.4,-63.6,16988594,Latin America and the Caribbean
+2016,armenia                         ,40.1,45.0,1860696,Western Asia                   
+2016,australia                       ,-25.3,133.8,24633137,Australia and New Zealand      
+2016,austria                         ,47.5,14.6,40296986,Western Europe                 
+2016,azerbaijan                      ,40.1,47.6,7044687,Western Asia                   
+2016,bahamas                         ,25.0,-77.4,2168898,Latin America and the Caribbean
+2016,bahrain                         ,25.9,50.6,12979495,Western Asia                   
+2016,bangladesh                      ,23.7,90.4,5712989,Southern Asia                  
+2016,barbados                        ,13.2,-59.5,1106996,Latin America and the Caribbean
+2016,belarus                         ,53.7,28.0,7379472,Eastern Europe                 
+2016,belgium                         ,50.5,4.5,30780889,Western Europe                 
+2016,belize                          ,17.2,-88.5,471461,Latin America and the Caribbean
+2016,benin                           ,9.3,2.3,707806,Sub-Saharan Africa             
+2016,bermuda                         ,32.3,-64.8,561535,Northern America               
+2016,bhutan                          ,27.5,90.4,280755,Southern Asia                  
+2016,bolivia                         ,-16.3,-63.6,2268011,Latin America and the Caribbean
+2016,bosnia and herzegovina          ,43.9,17.7,1971046,Southern Europe                
+2016,botswana                        ,-22.3,24.7,381938,Sub-Saharan Africa             
+2016,brazil                          ,-14.2,-51.9,15298951,Latin America and the Caribbean
+2016,brunei                          ,4.5,114.7,1961372,South-eastern Asia             
+2016,bulgaria                        ,42.7,25.5,18052869,Eastern Europe                 
+2016,burkina faso                    ,12.2,-1.6,355776,Sub-Saharan Africa             
+2016,burundi                         ,-3.4,29.9,103209,Sub-Saharan Africa             
+2016,cambodia                        ,12.6,105.0,4681815,South-eastern Asia             
+2016,cameroon                        ,7.4,12.4,1022087,Sub-Saharan Africa             
+2016,canada                          ,56.1,-106.3,55559656,Northern America               
+2016,cape verde                      ,16.0,-24.0,530393,Sub-Saharan Africa             
+2016,cayman islands                  ,19.5,-80.6,822899,Latin America and the Caribbean
+2016,central african republic        ,6.6,20.9,112839,Sub-Saharan Africa             
+2016,chad                            ,15.5,18.7,170692,Sub-Saharan Africa             
+2016,chile                           ,-35.7,-71.5,9790934,Latin America and the Caribbean
+2016,china                           ,35.9,104.2,177834559,Eastern Asia                   
+2016,colombia                        ,4.6,-74.3,7377965,Latin America and the Caribbean
+2016,comoros                         ,-11.9,43.9,111885,Sub-Saharan Africa             
+2016,congo [drc]                     ,-4.0,21.8,548549,Sub-Saharan Africa             
+2016,congo [republic]                ,-0.2,15.8,351024,Sub-Saharan Africa             
+2016,costa rica                      ,9.7,-83.8,4334565,Latin America and the Caribbean
+2016,croatia                         ,45.1,15.2,14188824,Southern Europe                
+2016,cuba                            ,21.5,-77.8,5093973,Latin America and the Caribbean
+2016,cyprus                          ,35.1,33.4,7537677,Western Asia                   
+2016,czech republic                  ,49.8,15.5,30214988,Eastern Europe                 
+2016,că´te d'ivoire                  ,7.5,-5.5,972837,Sub-Saharan Africa             
+2016,denmark                         ,56.3,9.5,22100527,Northern Europe                
+2016,djibouti                        ,11.8,42.6,357471,Sub-Saharan Africa             
+2016,dominica                        ,15.4,-61.4,143133,Latin America and the Caribbean
+2016,dominican republic              ,18.7,-70.2,8109914,Latin America and the Caribbean
+2016,ecuador                         ,-1.8,-78.2,3511450,Latin America and the Caribbean
+2016,egypt                           ,26.8,30.8,15203271,Northern Africa                
+2016,el salvador                     ,13.8,-88.9,2849480,Latin America and the Caribbean
+2016,equatorial guinea               ,1.7,10.3,180512,Sub-Saharan Africa             
+2016,eritrea                         ,15.2,39.8,195761,Sub-Saharan Africa             
+2016,estonia                         ,58.6,25.0,3984286,Northern Europe                
+2016,ethiopia                        ,9.1,40.5,1541269,Sub-Saharan Africa             
+2016,fiji                            ,-16.6,179.4,1127027,Melanesia                      
+2016,finland                         ,61.9,25.7,8095998,Northern Europe                
+2016,france                          ,46.2,2.2,127266679,Western Europe                 
+2016,gabon                           ,-0.8,11.6,546169,Sub-Saharan Africa             
+2016,gambia                          ,13.4,-15.3,259695,Sub-Saharan Africa             
+2016,georgia                         ,42.3,43.4,8154083,Western Asia                   
+2016,germany                         ,51.2,10.5,179760757,Western Europe                 
+2016,ghana                           ,7.9,-1.0,1527412,Sub-Saharan Africa             
+2016,gibraltar                       ,36.1,-5.3,402097,Southern Europe                
+2016,greece                          ,39.1,21.8,28406631,Southern Europe                
+2016,guatemala                       ,15.8,-90.2,3181450,Latin America and the Caribbean
+2016,guinea                          ,9.9,-9.7,246354,Sub-Saharan Africa             
+2016,guinea-bissau                   ,11.8,-15.2,76574,Sub-Saharan Africa             
+2016,guyana                          ,4.9,-58.9,481876,Latin America and the Caribbean
+2016,haiti                           ,19.0,-72.3,999950,Latin America and the Caribbean
+2016,honduras                        ,15.2,-86.2,1153655,Latin America and the Caribbean
+2016,hong kong                       ,22.4,114.1,119579896,Eastern Asia                   
+2016,hungary                         ,47.2,19.5,22144207,Eastern Europe                 
+2016,iceland                         ,65.0,-19.0,3254242,Northern Europe                
+2016,india                           ,20.6,79.0,37239529,Southern Asia                  
+2016,indonesia                       ,-0.8,113.9,22625584,South-eastern Asia             
+2016,iran                            ,32.4,53.7,8779977,Southern Asia                  
+2016,iraq                            ,33.2,43.7,4300084,Western Asia                   
+2016,ireland                         ,53.4,-8.2,29913323,Northern Europe                
+2016,israel                          ,31.0,34.9,10933532,Western Asia                   
+2016,italy                           ,41.9,12.6,94008738,Southern Europe                
+2016,jamaica                         ,18.1,-77.3,3477270,Latin America and the Caribbean
+2016,japan                           ,36.2,138.3,43893863,Eastern Asia                   
+2016,jordan                          ,30.6,36.2,5357919,Western Asia                   
+2016,kazakhstan                      ,48.0,66.9,10504782,Central Asia                   
+2016,kenya                           ,0.0,37.9,2711674,Sub-Saharan Africa             
+2016,kiribati                        ,-3.4,-168.7,38599,Micronesia                     
+2016,kuwait                          ,29.3,47.5,12253345,Western Asia                   
+2016,kyrgyzstan                      ,41.2,74.8,4513591,Central Asia                   
+2016,latvia                          ,56.9,24.6,9226361,Northern Europe                
+2016,lebanon                         ,33.9,35.9,5188217,Western Asia                   
+2016,lesotho                         ,-29.6,28.2,2916777,Sub-Saharan Africa             
+2016,liberia                         ,6.4,-9.4,172127,Sub-Saharan Africa             
+2016,libya                           ,26.3,17.2,1292903,Northern Africa                
+2016,lithuania                       ,55.2,23.9,10092378,Northern Europe                
+2016,luxembourg                      ,49.8,6.1,9628801,Western Europe                 
+2016,macedonia [fyrom]               ,41.6,21.7,4398280,Southern Europe                
+2016,madagascar                      ,-18.8,46.9,363546,Sub-Saharan Africa             
+2016,malawi                          ,-13.3,34.3,1040125,Sub-Saharan Africa             
+2016,malaysia                        ,4.2,102.0,40250002,South-eastern Asia             
+2016,maldives                        ,3.2,73.2,2270491,Southern Asia                  
+2016,mali                            ,17.6,-4.0,588186,Sub-Saharan Africa             
+2016,malta                           ,35.9,14.4,3571375,Southern Europe                
+2016,marshall islands                ,7.1,171.2,32289,Micronesia                     
+2016,mauritania                      ,21.0,-10.9,251900,Sub-Saharan Africa             
+2016,mauritius                       ,-20.3,57.6,1655489,Sub-Saharan Africa             
+2016,mexico                          ,23.6,-102.6,56635422,Latin America and the Caribbean
+2016,micronesia                      ,7.4,150.6,32730,Micronesia                     
+2016,moldova                         ,47.4,28.4,1676365,Eastern Europe                 
+2016,mongolia                        ,46.9,103.8,2530188,Eastern Asia                   
+2016,morocco                         ,31.8,-7.1,10221200,Northern Africa                
+2016,mozambique                      ,-18.7,35.5,3297360,Sub-Saharan Africa             
+2016,myanmar [burma]                 ,21.9,96.0,6415388,South-eastern Asia             
+2016,namibia                         ,-23.0,18.5,1349415,Sub-Saharan Africa             
+2016,nauru                           ,-0.5,166.9,32031,Micronesia                     
+2016,nepal                           ,28.4,84.1,2885368,Southern Asia                  
+2016,netherlands                     ,52.1,5.3,46634225,Western Europe                 
+2016,new zealand                     ,-40.9,174.9,8030886,Australia and New Zealand      
+2016,nicaragua                       ,12.9,-85.2,1709823,Latin America and the Caribbean
+2016,niger                           ,17.6,8.1,184614,Sub-Saharan Africa             
+2016,nigeria                         ,9.1,8.7,3998598,Sub-Saharan Africa             
+2016,niue                            ,-19.1,-169.9,13901,Polynesia                      
+2016,north korea                     ,40.3,127.5,106190,Eastern Asia                   
+2016,norway                          ,60.5,8.5,16140793,Northern Europe                
+2016,oman                            ,21.5,55.9,5239349,Western Asia                   
+2016,pakistan                        ,30.4,69.3,10878088,Southern Asia                  
+2016,palau                           ,7.5,134.6,174921,Micronesia                     
+2016,palestinian territories         ,32.0,35.2,18170,Western Asia                   
+2016,panama                          ,8.5,-80.8,2948733,Latin America and the Caribbean
+2016,papua new guinea                ,-6.3,144.0,367652,Melanesia                      
+2016,paraguay                        ,-23.4,-58.4,2677945,Latin America and the Caribbean
+2016,peru                            ,-9.2,-75.0,5685646,Latin America and the Caribbean
+2016,philippines                     ,12.9,121.8,15870188,South-eastern Asia             
+2016,poland                          ,51.9,19.1,98309213,Eastern Europe                 
+2016,portugal                        ,39.4,-8.2,25346466,Southern Europe                
+2016,qatar                           ,25.4,51.2,8435365,Western Asia                   
+2016,romania                         ,45.9,25.0,19914563,Eastern Europe                 
+2016,russia                          ,61.5,105.3,49476214,Eastern Europe                 
+2016,rwanda                          ,-1.9,29.9,1072120,Sub-Saharan Africa             
+2016,saint kitts and nevis           ,17.4,-62.8,214190,Latin America and the Caribbean
+2016,saint lucia                     ,13.9,-61.0,553500,Latin America and the Caribbean
+2016,saint vincent and the grenadines,13.0,-61.3,236290,Latin America and the Caribbean
+2016,samoa                           ,-13.8,-172.1,221319,Polynesia                      
+2016,san marino                      ,43.9,12.5,184742,Southern Europe                
+2016,saudi arabia                    ,23.9,45.1,46927188,Western Asia                   
+2016,senegal                         ,14.5,-14.5,1409480,Sub-Saharan Africa             
+2016,seychelles                      ,-4.7,55.5,448318,Sub-Saharan Africa             
+2016,sierra leone                    ,8.5,-11.8,200259,Sub-Saharan Africa             
+2016,singapore                       ,1.4,103.8,39711523,South-eastern Asia             
+2016,slovakia                        ,48.7,19.7,13740996,Eastern Europe                 
+2016,slovenia                        ,46.2,15.0,4718148,Southern Europe                
+2016,solomon islands                 ,-9.6,160.2,76207,Melanesia                      
+2016,somalia                         ,5.2,46.2,370525,Sub-Saharan Africa             
+2016,south africa                    ,-30.6,22.9,14443530,Sub-Saharan Africa             
+2016,south korea                     ,35.9,127.8,43952559,Eastern Asia                   
+2016,spain                           ,40.5,-3.7,119505506,Southern Europe                
+2016,sri lanka                       ,7.9,80.8,4670388,Southern Asia                  
+2016,sudan                           ,12.9,30.2,2369055,Northern Africa                
+2016,suriname                        ,3.9,-56.0,299472,Latin America and the Caribbean
+2016,sweden                          ,60.1,18.6,17762166,Northern Europe                
+2016,switzerland                     ,46.8,8.2,41864800,Western Europe                 
+2016,syria                           ,34.8,39.0,186169,Western Asia                   
+2016,tajikistan                      ,38.9,71.3,1301922,Central Asia                   
+2016,tanzania                        ,-6.4,34.9,2128998,Sub-Saharan Africa             
+2016,thailand                        ,15.9,101.0,41945909,South-eastern Asia             
+2016,timor-leste                     ,-8.9,125.7,27145,South-eastern Asia             
+2016,togo                            ,8.6,0.8,361697,Sub-Saharan Africa             
+2016,tonga                           ,-21.2,-175.2,155711,Polynesia                      
+2016,trinidad and tobago             ,10.7,-61.2,1170695,Latin America and the Caribbean
+2016,tunisia                         ,33.9,9.5,7782332,Northern Africa                
+2016,turkey                          ,39.0,35.2,43950393,Western Asia                   
+2016,turkmenistan                    ,39.0,59.6,664980,Central Asia                   
+2016,turks and caicos islands        ,21.7,-71.8,662935,Latin America and the Caribbean
+2016,tuvalu                          ,-7.1,177.6,6423,Polynesia                      
+2016,uganda                          ,1.4,32.3,1586707,Sub-Saharan Africa             
+2016,ukraine                         ,48.4,31.2,34641807,Eastern Europe                 
+2016,united arab emirates            ,23.4,53.8,40989244,Western Asia                   
+2016,united kingdom                  ,55.4,-3.4,152371150,Northern Europe                
+2016,united states                   ,37.1,-95.7,179670121,Northern America               
+2016,uruguay                         ,-32.5,-55.8,4236659,Latin America and the Caribbean
+2016,uzbekistan                      ,41.4,64.6,1967146,Central Asia                   
+2016,vanuatu                         ,-15.4,167.0,139910,Melanesia                      
+2016,venezuela                       ,6.4,-66.6,3108258,Latin America and the Caribbean
+2016,yemen                           ,15.6,48.5,1468,Western Asia                   
+2016,zambia                          ,-13.1,27.8,1418793,Sub-Saharan Africa             
+2016,zimbabwe                        ,-19.0,29.2,4647057,Sub-Saharan Africa             
